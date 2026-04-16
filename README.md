@@ -81,7 +81,7 @@ Here are some of my projects that showcase my ability to handle complex business
 
 If you are looking for a reliable, senior-level architect who communicates clearly, writes maintainable code, and truly understands business goals—let's talk.
 
-👉 **[Hire me on Upwork]([https://www.upwork.com/freelancers/~0129bc99106a1deac1?mp_source=share])**
+👉 **[Hire me on Upwork](https://www.upwork.com/freelancers/~0129bc99106a1deac1?mp_source=share)**
 
 ---
 <!-- GitHub Stats -->
