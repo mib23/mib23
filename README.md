@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm mib23 👋</h1>
 
-<h3 align="center">Senior Full-Stack Architect | 20 Years of Experience | Enterprise Solutions Expert</h3>
+<h3 align="center">Senior Full-Stack Architect | 20 Years of Experience | Enterprise Solutions</h3>
 
 <p align="center">
   Bringing two decades of enterprise-grade development experience to freelance opportunities on <strong><a href="[你的Upwork主页链接]" target="_blank">Upwork</a></strong>. I specialize in architecting scalable, high-performance systems and intuitive data dashboards.
@@ -16,7 +16,7 @@ With **20 years of hands-on experience** in software engineering, I don't just w
 - 💼 **Availability:** Open for freelance projects, long-term partnerships, and consulting on Upwork.
 - 🎯 **Focus Areas:** Enterprise ERP/MES Systems, FinTech/Quant Platforms, Real-time Data Dashboards, and Complex SaaS.
 - 💬 **Ask me about:** C#/.NET backend architecture, real-time data streaming (WebSockets/RabbitMQ), and rich frontend data visualization (Vue/ECharts).
-- 📫 **How to reach me:** [mib23@foxmail.com]
+- 📫 **How to reach me:** mib23@foxmail.com
 
 ---
 
@@ -50,30 +50,6 @@ I leverage a battle-tested enterprise tech stack to deliver reliable solutions:
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
----
-
-### 🚀 Featured Open Source Portfolio
-
-Here are some of my projects that showcase my ability to handle complex business logic and data flows:
-
-#### 📈 [QuantFlow Pro](https://github.com/mib23/quantflow-pro)
-*A professional quantitative trading & data analysis platform.*
-- **Business Value:** Demonstrates high-performance data processing, time-series analysis, and algorithmic logic implementation.
-- **Under the hood:** Perfect example of handling large datasets and visualizing complex financial metrics.
-- **Ideal for clients needing:** FinTech solutions, trading bots, or data-intensive analytics platforms.
-
-#### 🏭 [MES Dashboard](https://github.com/mib23/mes-dashboard)
-*Manufacturing Execution System (MES) visual monitoring dashboard.*
-- **Business Value:** Highlights my expertise in translating real-time industrial/IoT data into actionable, high-quality visualizations (using tools like ECharts & WebSockets).
-- **Under the hood:** Focuses on real-time data streaming and responsive UI for large enterprise screens.
-- **Ideal for clients needing:** B2B Admin panels, Industry 4.0 solutions, SaaS dashboards, or IoT monitoring.
-
-#### 🏢 [Letiao ATS](https://github.com/mib23/letiao-ats)
-*Applicant Tracking System (ATS) & Automated Workflow Platform.*
-- **Business Value:** Shows my ability to build comprehensive enterprise management tools with strict role-based access control and automated workflows.
-- **Under the hood:** Structured relational database design, secure API architecture, and seamless user experience.
-- **Ideal for clients needing:** Custom ERP, CRM, HR management systems, or internal process automation.
 
 ---
 
