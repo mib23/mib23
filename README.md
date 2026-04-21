@@ -3,12 +3,12 @@
 <h3 align="center">Senior Full-Stack Architect | 20 Years of Experience | Enterprise Solutions</h3>
 
 <p align="center">
-  Bringing two decades of enterprise-grade development experience to freelance opportunities on <strong><a href="[你的Upwork主页链接]" target="_blank">Upwork</a></strong>. I specialize in architecting scalable, high-performance systems and intuitive data dashboards.
+  I specialize in architecting scalable, high-performance systems and intuitive data dashboards.
 </p>
 
 ---
 
-### 👨‍💻 About Me & Why Hire Me?
+### 👨‍💻 About Me
 
 With **20 years of hands-on experience** in software engineering, I don't just write code—I design robust architectures and solve complex business challenges. I have witnessed the evolution of web technologies and know how to choose the right tools to ensure your project is secure, scalable, and easy to maintain.
 
@@ -50,11 +50,3 @@ I leverage a battle-tested enterprise tech stack to deliver reliable solutions:
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
----
-
-### 🤝 Let's Work Together
-
-If you are looking for a reliable, senior-level architect who communicates clearly, writes maintainable code, and truly understands business goals—let's talk.
-
-👉 **[Hire me on Upwork](https://www.upwork.com/freelancers/~0129bc99106a1deac1?mp_source=share)**
